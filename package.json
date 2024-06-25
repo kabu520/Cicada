@@ -49,5 +49,8 @@
   "keywords": [
     "astro-component",
     "withastro"
-  ]
+  ],
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
