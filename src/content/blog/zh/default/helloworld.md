@@ -11,6 +11,6 @@ category: '默认页面'
 lang: 'zh'
 ---
 
-## Hello World
+# Hello World
 
 感谢使用:color[Cicada'Blog]{color="gold"}

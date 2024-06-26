@@ -12,7 +12,7 @@ category: 'Default Page'
 lang: 'en'
 ---
 
-## Extended Search
+# Extended Search
 
 This site uses [fusejs](https://www.fusejs.io) to provide local search services, allowing you to use extended search - a search format that can fine-tune search results, similar to:color[unix]{color="green"}
 

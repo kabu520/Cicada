@@ -13,7 +13,7 @@ category: '默认页面'
 lang: 'zh'
 ---
 
-## 扩展搜索
+# 扩展搜索
 
 本站使用[fusejs](https://www.fusejs.io)提供本地搜索服务，允许您使用扩展搜索——一种可以微调搜索结果的搜索格式，类似于:color[unix]{color="green"}
 

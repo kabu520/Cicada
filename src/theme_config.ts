@@ -130,7 +130,7 @@ export const ThemeConfig: Configs = {
         // icon: `<i class="fa-solid fa-star"></i>`,
         icon: "local:solid.star",
         title: "推荐文章",
-        content: "这里是自定义内容部分<br>啥都可以放",
+        content: "",//"这里是自定义内容部分<br>啥都可以放",
       },
     ],
   },
