@@ -1,8 +1,8 @@
 ---
 title: helloworld
 description: ''
-pubDate: Jul 27 2023
-updatedDate: Jul 27 2023
+pubDate: Jul 1 2023
+updatedDate: Jul 1 2023
 heroColor: ''
 abbrlink: lkk0fjvf
 tags: 
@@ -11,6 +11,6 @@ category: '默认页面'
 lang: 'zh'
 ---
 
-## Hello World - 中文版
+## Hello World
 
-感谢使用:color[HsuBlog]{color="gold"}
+感谢使用:color[Cicada'Blog]{color="gold"}

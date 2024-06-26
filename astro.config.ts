@@ -40,6 +40,8 @@ const rehypePlugins: any = [
 ].filter(Boolean);
 
 export default defineConfig({
+  
+
   site: SiteConfig.site,
   integrations: [astroI18next(), sitemap(), vue()],
   output: "static",
@@ -53,3 +55,4 @@ export default defineConfig({
   },
   trailingSlash: "ignore",
 });
+
