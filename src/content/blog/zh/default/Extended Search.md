@@ -1,6 +1,6 @@
 ---
 title: Extended Search
-description: '关于HsuBlog所使用的fusejs的扩展搜索语法'
+description: '关于Cicada所使用的fusejs的扩展搜索语法'
 pubDate: Jul 27 2023
 updatedDate: Jul 27 2023
 heroColor: ''

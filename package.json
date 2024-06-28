@@ -1,8 +1,8 @@
 {
   "name": "hsu-blog",
-  "description": "A beautiful, customized, personal blog theme for Astro",
+  "description": "",
   "version": "1.0.1",
-  "homepage": "https://github.com/kabu520/HsuBlog",
+  "homepage": "https://github.com/kabu520/Cicada",
   "private": false,
   "type": "module",
   "scripts": {
@@ -11,11 +11,11 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "new": "ts-node ./hsublog-cli.ts new",
-    "abbr": "ts-node ./hsublog-cli.ts abbr",
-    "newpage": "ts-node ./hsublog-cli.ts newPage",
-    "help": "ts-node ./hsublog-cli.ts help",
-    "i18n": "astro-i18next generate && ts-node ./hsublog-cli.ts i18n"
+    "new": "ts-node ./Cicada-cli.ts new",
+    "abbr": "ts-node ./Cicada-cli.ts abbr",
+    "newpage": "ts-node ./Cicada-cli.ts newPage",
+    "help": "ts-node ./Cicada-cli.ts help",
+    "i18n": "astro-i18next generate && ts-node ./Cicada-cli.ts i18n"
   },
   "dependencies": {
     "@astrojs/mdx": "^0.19.7",
