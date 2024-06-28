@@ -1,7 +1,7 @@
 {
   "site": {
-    "author": "枢衡Krahsu",
-    "title": "Hsu's Blog!",
+    "author": "Cicada",
+    "title": "Cicada's Blog!",
     "description": "这是一个个人博客",
     "localSearch": {
       "comment": "你可以使用类似 unix 的格式：[扩展搜索](/blog/lkk0v40t/)",
@@ -28,7 +28,7 @@
     },
     "announcement": {
       "headline": "看公告啦！",
-      "content": "新主题试验中~ 欢迎各位[找茬](https://github.com/KraHsu/HsuBlog/issues)~"
+      "content": ""
     },
     "customCards": {
       "推荐文章": {
@@ -39,11 +39,11 @@
     }
   },
   "footer": {
-    "text": "Design & Build with ❤ by [枢衡KraHsu](/about)",
-    "copyright": "&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [枢衡KraHsu](/about)"
+    "text": "",
+    "copyright": "&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [Cicada](/about)"
   },
   "homePage": {
-    "heroTitle": "枢衡の学习日志",
+    "heroTitle": "Cicadaの学习日志",
     "heroDescription": "一个漂亮且客制化的Astro个人博客主题"
   },
   "postPage": {
