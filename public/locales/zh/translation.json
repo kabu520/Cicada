@@ -43,8 +43,8 @@
     "copyright": "&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [Cicada](/about)"
   },
   "homePage": {
-    "heroTitle": "Cicadaの学习日志",
-    "heroDescription": "一个漂亮且客制化的Astro个人博客主题"
+    "heroTitle": "Cicada",
+    "heroDescription": ""
   },
   "postPage": {
     "pubDate": "发表于 {{- pubDate}}",

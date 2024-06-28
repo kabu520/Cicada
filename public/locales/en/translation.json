@@ -1,7 +1,7 @@
 {
   "site": {
     "author": "Cicada",
-    "title": "Hsu's Blog!",
+    "title": "Cicada's Blog!",
     "description": "This is a personal blog",
     "localSearch": {
       "comment": "You can use a unix-like format: [Extended Search](/blog/lkk0v40t/)",
@@ -24,7 +24,7 @@
   },
   "aside": {
     "authorInfo": {
-      "description": "A front-end developer."
+      "description": "That's how it should be."
     },
     "announcement": {
       "headline": "Announcement!",
