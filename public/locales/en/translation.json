@@ -28,7 +28,7 @@
     },
     "announcement": {
       "headline": "Announcement!",
-      "content": "New theme testing~ Everyone is welcome to [contribute](https://github.com/Cicada/HsuBlog/issues)~"
+      "content": "New theme testing~ Everyone is welcome to [contribute](https://github.com/Cicada/Cicada/issues)~"
     },
     "customCards": {
       "推荐文章": {
@@ -44,7 +44,7 @@
   },
   "homePage": {
     "heroTitle": "Cicada's Blog",
-    "heroDescription": "A beautiful, customized, personal blog theme for Astro"
+    "heroDescription": ""
   },
   "postPage": {
     "pubDate": "Published on {{- pubDate}}",
