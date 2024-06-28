@@ -11,6 +11,6 @@ useToc: true
 
 :::links[The Autor of HsuBlog]
 
-::link[Cicada]{logo="/avatar.avif" desc="我期待着，有流星划过" link="https://blog.krahsu.top"}
+::link[Cicada]{logo="/avatar.avif" desc="我期待着，有流星划过" link="https://blog.Cicada.top"}
 
 :::

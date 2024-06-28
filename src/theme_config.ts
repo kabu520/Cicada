@@ -139,7 +139,7 @@ export const ThemeConfig: Configs = {
     copyright: ``,
     // 也可以使用 {{}} 包裹函数体，并返回替换值
     // You can also use {{}} to wrap the function body and return the replacement value.
-    // copyright: `&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [枢衡KraHsu](/about)`,
+    // copyright: `&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [Cicada](/about)`,
   },
   homePage: {
     heroShoot: "/heroimg.jpg",

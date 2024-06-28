@@ -1,6 +1,6 @@
 {
   "site": {
-    "author": "KraHsu",
+    "author": "Cicada",
     "title": "Hsu's Blog!",
     "description": "This is a personal blog",
     "localSearch": {
@@ -28,7 +28,7 @@
     },
     "announcement": {
       "headline": "Announcement!",
-      "content": "New theme testing~ Everyone is welcome to [contribute](https://github.com/KraHsu/HsuBlog/issues)~"
+      "content": "New theme testing~ Everyone is welcome to [contribute](https://github.com/Cicada/HsuBlog/issues)~"
     },
     "customCards": {
       "推荐文章": {
@@ -39,11 +39,11 @@
     }
   },
   "footer": {
-    "text": "Design & Build with ❤ by [KraHsu](/about)",
-    "copyright": "&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [KraHsu](/about)"
+    "text": "Design & Build with ❤ by [Cicada](/about)",
+    "copyright": "&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [Cicada](/about)"
   },
   "homePage": {
-    "heroTitle": "KraHsu's Blog",
+    "heroTitle": "Cicada's Blog",
     "heroDescription": "A beautiful, customized, personal blog theme for Astro"
   },
   "postPage": {
